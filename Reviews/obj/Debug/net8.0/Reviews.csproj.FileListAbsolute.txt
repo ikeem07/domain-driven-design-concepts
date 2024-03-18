@@ -1,0 +1,12 @@
+/Volumes/files/src/domain-driven-design-concepts/Reviews/bin/Debug/net8.0/Reviews.deps.json
+/Volumes/files/src/domain-driven-design-concepts/Reviews/bin/Debug/net8.0/Reviews.dll
+/Volumes/files/src/domain-driven-design-concepts/Reviews/bin/Debug/net8.0/Reviews.pdb
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.AssemblyInfoInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.AssemblyInfo.cs
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.csproj.CoreCompileInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.sourcelink.json
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.dll
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/refint/Reviews.dll
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/Reviews.pdb
+/Volumes/files/src/domain-driven-design-concepts/Reviews/obj/Debug/net8.0/ref/Reviews.dll

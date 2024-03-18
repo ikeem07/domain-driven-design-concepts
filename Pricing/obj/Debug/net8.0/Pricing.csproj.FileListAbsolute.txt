@@ -1,0 +1,12 @@
+/Volumes/files/src/domain-driven-design-concepts/Pricing/bin/Debug/net8.0/Pricing.deps.json
+/Volumes/files/src/domain-driven-design-concepts/Pricing/bin/Debug/net8.0/Pricing.dll
+/Volumes/files/src/domain-driven-design-concepts/Pricing/bin/Debug/net8.0/Pricing.pdb
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.AssemblyInfoInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.AssemblyInfo.cs
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.csproj.CoreCompileInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.sourcelink.json
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.dll
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/refint/Pricing.dll
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/Pricing.pdb
+/Volumes/files/src/domain-driven-design-concepts/Pricing/obj/Debug/net8.0/ref/Pricing.dll

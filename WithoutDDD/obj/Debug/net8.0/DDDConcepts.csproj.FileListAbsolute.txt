@@ -1,0 +1,12 @@
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/bin/Debug/net8.0/DDDConcepts.deps.json
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/bin/Debug/net8.0/DDDConcepts.dll
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/bin/Debug/net8.0/DDDConcepts.pdb
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.AssemblyInfoInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.AssemblyInfo.cs
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.csproj.CoreCompileInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.sourcelink.json
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.dll
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/refint/DDDConcepts.dll
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/DDDConcepts.pdb
+/Volumes/files/src/domain-driven-design-concepts/WithoutDDD/obj/Debug/net8.0/ref/DDDConcepts.dll

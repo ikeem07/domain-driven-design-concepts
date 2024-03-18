@@ -1,0 +1,12 @@
+/Volumes/files/src/domain-driven-design-concepts/Inventory/bin/Debug/net8.0/Inventory.deps.json
+/Volumes/files/src/domain-driven-design-concepts/Inventory/bin/Debug/net8.0/Inventory.dll
+/Volumes/files/src/domain-driven-design-concepts/Inventory/bin/Debug/net8.0/Inventory.pdb
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfoInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.AssemblyInfo.cs
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.csproj.CoreCompileInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.sourcelink.json
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.dll
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/refint/Inventory.dll
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/Inventory.pdb
+/Volumes/files/src/domain-driven-design-concepts/Inventory/obj/Debug/net8.0/ref/Inventory.dll

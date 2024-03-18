@@ -1,0 +1,12 @@
+/Volumes/files/src/domain-driven-design-concepts/Catalog/bin/Debug/net8.0/Catalog.deps.json
+/Volumes/files/src/domain-driven-design-concepts/Catalog/bin/Debug/net8.0/Catalog.dll
+/Volumes/files/src/domain-driven-design-concepts/Catalog/bin/Debug/net8.0/Catalog.pdb
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.AssemblyInfoInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.AssemblyInfo.cs
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.csproj.CoreCompileInputs.cache
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.sourcelink.json
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.dll
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/refint/Catalog.dll
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/Catalog.pdb
+/Volumes/files/src/domain-driven-design-concepts/Catalog/obj/Debug/net8.0/ref/Catalog.dll
